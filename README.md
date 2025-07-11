@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamru03
-- 👀 I’m interested in UI/UX Designing
+- 👀 I’m interested in AI & Robotics
 - 🌱 I’m currently learning UI/UX 
 - 💞️ I’m looking to collaborate on making design
 - 📫 How to reach me https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/
