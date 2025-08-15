@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @kamru03
-- 👀 I’m interested in AI & Robotics
-- 🌱 I’m currently learning UI/UX 
-- 💞️ I’m looking to collaborate on making design
-- 📫 How to reach me https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: The ESP32 chip you're using can be found in smart toothbrushes and toys, not just robots! 🦷🤖
+# Hi there, I'm Kamruzzaman Mondal 👋
+
+## 🚀 About Me
+- 🤖 Passionate about **Artificial Intelligence** & **Robotics**  
+- 🎨 Currently exploring **UI/UX Design** to create user-friendly experiences  
+- 🤝 Open to collaborating on **design and development projects**  
+
+## 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/)
+
+## 💡 Fun Fact
+The **ESP32** chip I often work with isn’t just for robots — it’s also inside smart toothbrushes and toys! 🦷🤖
+
 
 <!---
 kamru03/kamru03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
