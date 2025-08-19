@@ -5,6 +5,9 @@
 - 🎨 Currently exploring **UI/UX Design** to create user-friendly experiences  
 - 🤝 Open to collaborating on **design and development projects**  
 
+## 📄 My Resume
+[![Resume](https://img.shields.io/badge/Download-Resume-green)](https://github.com/kamru03/kamru03/raw/main/Kamruzzaman_Mondal_CV.docx)
+
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/)
 
