@@ -1,21 +1,125 @@
-# Hi there, I'm Kamruzzaman Mondal 👋
+# Kamruzzaman Mondal
 
-## 🚀 About Me
-- 🤖 Passionate about **Artificial Intelligence** & **Robotics**  
-- 🎨 Currently exploring **UI/UX Design** to create user-friendly experiences  
-- 🤝 Open to collaborating on **design and development projects**  
+Computer Science and Engineering undergraduate at Adamas University with a strong interest in Artificial Intelligence, Robotics, Embedded Systems, and Full-Stack Development. I enjoy building intelligent systems that combine software, electronics, and machine learning to solve real-world problems.
 
-## 📄 My Resume
-[![Resume](https://img.shields.io/badge/Resume-Connect-blue)](https://drive.google.com/file/d/1npHM2Q_a6QYSpx_TsVma3b_SrahD6W8Z/view?usp=drive_link)
+## About
 
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/)
+- B.Tech in Computer Science & Engineering
+- Student Coordinator, Robotics & AI Club, Adamas University
+- Research Lead, Society for Data Science
+- Interested in AI, Robotics, Computer Vision, IoT, and Embedded Systems
 
-## 💡 Fun Fact
-The **ESP32** chip I often work with isn’t just for robots — it’s also inside smart toothbrushes and toys! 🦷🤖
+## Current Focus
 
+- Artificial Intelligence and Machine Learning
+- Computer Vision
+- Embedded Systems with STM32 and ESP32
+- Autonomous Robotics
+- Full-Stack Web Development
 
-<!---
-kamru03/kamru03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Technical Skills
+
+**Languages**
+
+Python • C++ • Java • JavaScript • SQL
+
+**Web**
+
+HTML • CSS • React • Next.js • Node.js
+
+**AI & Data**
+
+TensorFlow • OpenCV • Machine Learning • Deep Learning
+
+**Embedded Systems**
+
+Arduino • ESP32 • STM32 • Raspberry Pi • Jetson Nano
+
+**Tools**
+
+Git • GitHub • Linux • VS Code • MongoDB • MySQL
+
+## Projects
+
+- Intelligent AI-based Pesticide Sprinkling Drone
+- AI Emergency Detection Wearable
+- Industrial SCADA Mini Server
+- Smart Hydration Monitoring System
+- Autonomous Robotics Projects
+
+## Achievements
+
+- Second Prize, Vishwakarma Awards – Smart Mobility
+- Winner, Clash of Coders 3.0
+- Top 30 Finalist, Dakshh Tech Fest
+- Research and development in AI-driven embedded systems
+
+## Connect
+
+LinkedIn: # Kamruzzaman Mondal
+
+Computer Science and Engineering undergraduate at Adamas University with a strong interest in Artificial Intelligence, Robotics, Embedded Systems, and Full-Stack Development. I enjoy building intelligent systems that combine software, electronics, and machine learning to solve real-world problems.
+
+## About
+
+- B.Tech in Computer Science & Engineering
+- Student Coordinator, Robotics & AI Club, Adamas University
+- Research Lead, Society for Data Science
+- Interested in AI, Robotics, Computer Vision, IoT, and Embedded Systems
+
+## Current Focus
+
+- Artificial Intelligence and Machine Learning
+- Computer Vision
+- Embedded Systems with STM32 and ESP32
+- Autonomous Robotics
+- Full-Stack Web Development
+
+## Technical Skills
+
+**Languages**
+
+Python • C++ • Java • JavaScript • SQL
+
+**Web**
+
+HTML • CSS • React • Next.js • Node.js
+
+**AI & Data**
+
+TensorFlow • OpenCV • Machine Learning • Deep Learning
+
+**Embedded Systems**
+
+Arduino • ESP32 • STM32 • Raspberry Pi • Jetson Nano
+
+**Tools**
+
+Git • GitHub • Linux • VS Code • MongoDB • MySQL
+
+## Projects
+
+- Intelligent AI-based Pesticide Sprinkling Drone
+- AI Emergency Detection Wearable
+- Industrial SCADA Mini Server
+- Smart Hydration Monitoring System
+- Autonomous Robotics Projects
+
+## Achievements
+
+- Second Prize, Vishwakarma Awards – Smart Mobility
+- Winner, Clash of Coders 3.0
+- Top 30 Finalist, Dakshh Tech Fest
+- Research and development in AI-driven embedded systems
+
+## Connect
+
+LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/)
+
+GitHub: https://github.com/your-username
+
+Email: your-email@example.com
+
+GitHub: https://github.com/your-username
+
+Email: your-email@example.com
