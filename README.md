@@ -118,8 +118,6 @@ LinkedIn: https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/
 
 GitHub: https://github.com/your-username
 
-Email: your-email@example.com
+Email: gitkamru@gmail.com
 
 GitHub: https://github.com/your-username
-
-Email: your-email@example.com
