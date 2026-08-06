@@ -1,97 +1,105 @@
-<h1 align="center">Kamruzzaman Mondal</h1>
+# Kamruzzaman Mondal
 
-<p align="center">
-Computer Science & Engineering Undergraduate • AI • Robotics • Embedded Systems
-</p>
+B.Tech Computer Science & Engineering Student | Robotics | Artificial Intelligence | Edge Computing | Drone Systems
 
-<p align="center">
-<a href="https://github.com/kamru03">
-<img src="https://komarev.com/ghpvc/?username=kamru03&style=flat-square" />
-</a>
+I am a Computer Science & Engineering student at Adamas University with a strong interest in robotics, artificial intelligence, embedded systems, and edge computing. I enjoy designing intelligent systems that combine software and hardware to solve real-world problems. My experience ranges from AI-powered drone systems and agricultural robotics to embedded development and technical training.
 
-<a href="https://github.com/kamru03?tab=followers">
-<img src="https://img.shields.io/github/followers/kamru03?style=flat-square" />
-</a>
+## About Me
 
-<a href="https://github.com/kamru03">
-<img src="https://img.shields.io/github/stars/kamru03?affiliations=OWNER&style=flat-square" />
-</a>
-</p>
-
----
-
-## About
-
-Computer Science and Engineering undergraduate at **Adamas University** with a passion for Artificial Intelligence, Robotics, Embedded Systems, and Full-Stack Development. I enjoy designing intelligent systems that combine software, electronics, and machine learning to solve real-world problems.
-
-- Student Coordinator — Robotics & AI Club
-- Research Lead — Society for Data Science
-- Interested in AI, Computer Vision, IoT, Robotics, and Embedded Systems
-- Open to research, collaboration, and open-source contributions
-
----
+* Computer Science & Engineering student at Adamas University
+* Student Coordinator, Robotics & AI Club
+* Team Leader of multiple robotics and AI projects
+* Interested in Robotics, AI, Computer Vision, Embedded Systems, Edge AI, UAVs, and Full-Stack Development
+* Passionate about building practical solutions through engineering and research
 
 ## Current Focus
 
-- Artificial Intelligence & Machine Learning
-- Computer Vision
-- Embedded Systems (STM32 & ESP32)
-- Autonomous Robotics
-- Full-Stack Web Development
-
----
+* Edge AI with NVIDIA Jetson
+* Computer Vision
+* Robotics and Autonomous Systems
+* Drone Technologies
+* Embedded Systems
+* Machine Learning
+* Research in AI for Agriculture
 
 ## Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,react,nextjs,nodejs,mongodb,mysql,git,github,linux,vscode,tensorflow,opencv,arduino" />
-</p>
+**Languages**
 
----
+Python • C++ • Java • JavaScript • HTML • CSS
+
+**Frameworks & Libraries**
+
+React • Next.js • Node.js
+
+**AI & Machine Learning**
+
+TensorFlow • OpenCV • Computer Vision • Deep Learning
+
+**Embedded & Robotics**
+
+Arduino • ESP32 • STM32 • NVIDIA Jetson Orin Nano • IoT • UAV Systems
+
+**Tools**
+
+Git • GitHub • Linux • VS Code • PlatformIO • MongoDB • 3D Printing
 
 ## Featured Projects
 
-- Intelligent AI-Based Pesticide Sprinkling Drone
-- AI Emergency Detection Wearable
-- Industrial SCADA Mini Server
-- Smart Hydration Monitoring System
-- Autonomous Robotics Systems
+### Team VIHANG
 
----
+An AI-powered precision agriculture drone system designed for intelligent pesticide spraying using computer vision and edge AI.
+
+### AgriDROVER
+
+A smart agricultural rover developed for autonomous farming operations and field automation.
+
+### AI Emergency Wearable
+
+A wearable system capable of monitoring health conditions and detecting medical emergencies using embedded AI.
+
+### Industrial SCADA Mini Server
+
+A lightweight industrial monitoring dashboard powered by ESP32 for real-time control and visualization.
+
+## Research
+
+* IEEE IATMSI 2026 Accepted Paper
+
+  * *A Systematic Comparison of Deep Learning Models for Single-Trial P300 Detection in Autism Spectrum Disorder*
+* Ongoing research on fairness-aware agricultural language models using XLoRA.
 
 ## Achievements
 
-- Second Prize — Vishwakarma Awards (Smart Mobility)
-- Winner — Clash of Coders 3.0
-- Top 30 Finalist — Dakshh Tech Fest
-- Research in AI-driven Embedded Systems and Robotics
-
----
+* First Place — Clash of Coders 3.0 Hackathon
+* Second Place — Vishwakarma Awards (Smart Mobility)
+* First Place — National Workshop on Innovative & Sustainable Technologies
+* Instructor for technical workshops on NVIDIA Jetson, Robotics, and 3D Printing
+* Delivered technical training sessions for more than 100 students
 
 ## GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamru03&show_icons=true&theme=default&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamru03&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamru03&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamru03&layout=compact&theme=transparent&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kamru03&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kamru03&theme=transparent&hide_border=true"/>
 </p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamru03&theme=github-compact&hide_border=true" />
-</p>
-
----
 
 ## Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/
-- **GitHub:** https://github.com/kamru03
-- **Email:** gitkamru@gmail.com
+LinkedIn: https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/
+
+GitHub: https://github.com/kamru03
+
+Email: [gitkamru@gmail.com](mailto:gitkamru@gmail.com)
+
+X: https://x.com/kamru03
+
+Instagram: https://www.instagram.com/_a_l_f_a_03/
+
+---
+
+*"Building intelligent systems that bridge artificial intelligence with real-world engineering."*
