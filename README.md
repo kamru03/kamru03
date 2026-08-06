@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Kamruzzaman%20Mondal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20|%20Artificial%20Intelligence%20|%20Edge%20Computing&descAlignY=58" />
 </p>
