@@ -6,7 +6,7 @@
 - 🤝 Open to collaborating on **design and development projects**  
 
 ## 📄 My Resume
-[![Resume](https://img.shields.io/badge/Download-Resume-green)](https://drive.google.com/file/d/1Z6Wk6G4Z7oxmbv_A0IueVPoUVwyb2fIU/view?usp=sharing)
+[![Resume]()
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/)
