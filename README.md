@@ -114,7 +114,7 @@ Git • GitHub • Linux • VS Code • MongoDB • MySQL
 
 ## Connect
 
-LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/)
+LinkedIn: https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/
 
 GitHub: https://github.com/your-username
 
