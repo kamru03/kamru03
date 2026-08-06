@@ -1,121 +1,79 @@
+```markdown
 # Kamruzzaman Mondal
 
-Computer Science and Engineering undergraduate at Adamas University with a strong interest in Artificial Intelligence, Robotics, Embedded Systems, and Full-Stack Development. I enjoy building intelligent systems that combine software, electronics, and machine learning to solve real-world problems.
+Computer Science and Engineering undergraduate at **Adamas University** with a passion for building intelligent systems that bridge software, hardware, and artificial intelligence. My interests lie in **Artificial Intelligence, Robotics, Embedded Systems, Computer Vision,** and **Full-Stack Development**, with a focus on developing practical solutions to real-world problems.
+
+---
 
 ## About
 
-- B.Tech in Computer Science & Engineering
-- Student Coordinator, Robotics & AI Club, Adamas University
+- B.Tech in Computer Science & Engineering, Adamas University
+- Student Coordinator, Robotics & AI Club
 - Research Lead, Society for Data Science
-- Interested in AI, Robotics, Computer Vision, IoT, and Embedded Systems
+- Passionate about AI, Robotics, Computer Vision, IoT, and Embedded Systems
+- Open to research collaborations, open-source contributions, and innovative projects
+
+---
 
 ## Current Focus
 
-- Artificial Intelligence and Machine Learning
+- Artificial Intelligence & Machine Learning
 - Computer Vision
-- Embedded Systems with STM32 and ESP32
+- Embedded Systems (STM32 & ESP32)
 - Autonomous Robotics
 - Full-Stack Web Development
 
-## Technical Skills
-
-**Languages**
-
-Python • C++ • Java • JavaScript • SQL
-
-**Web**
-
-HTML • CSS • React • Next.js • Node.js
-
-**AI & Data**
-
-TensorFlow • OpenCV • Machine Learning • Deep Learning
-
-**Embedded Systems**
-
-Arduino • ESP32 • STM32 • Raspberry Pi • Jetson Nano
-
-**Tools**
-
-Git • GitHub • Linux • VS Code • MongoDB • MySQL
-
-## Projects
-
-- Intelligent AI-based Pesticide Sprinkling Drone
-- AI Emergency Detection Wearable
-- Industrial SCADA Mini Server
-- Smart Hydration Monitoring System
-- Autonomous Robotics Projects
-
-## Achievements
-
-- Second Prize, Vishwakarma Awards – Smart Mobility
-- Winner, Clash of Coders 3.0
-- Top 30 Finalist, Dakshh Tech Fest
-- Research and development in AI-driven embedded systems
-
-## Connect
-
-LinkedIn: [ Kamruzzaman Mondal](https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/)
-
-Computer Science and Engineering undergraduate at Adamas University with a strong interest in Artificial Intelligence, Robotics, Embedded Systems, and Full-Stack Development. I enjoy building intelligent systems that combine software, electronics, and machine learning to solve real-world problems.
-
-## About
-
-- B.Tech in Computer Science & Engineering
-- Student Coordinator, Robotics & AI Club, Adamas University
-- Research Lead, Society for Data Science
-- Interested in AI, Robotics, Computer Vision, IoT, and Embedded Systems
-
-## Current Focus
-
-- Artificial Intelligence and Machine Learning
-- Computer Vision
-- Embedded Systems with STM32 and ESP32
-- Autonomous Robotics
-- Full-Stack Web Development
+---
 
 ## Technical Skills
 
-**Languages**
-
+### Languages
 Python • C++ • Java • JavaScript • SQL
 
-**Web**
-
+### Web Development
 HTML • CSS • React • Next.js • Node.js
 
-**AI & Data**
-
+### AI & Computer Vision
 TensorFlow • OpenCV • Machine Learning • Deep Learning
 
-**Embedded Systems**
+### Embedded Systems
+Arduino • ESP32 • STM32 • Raspberry Pi • NVIDIA Jetson Nano
 
-Arduino • ESP32 • STM32 • Raspberry Pi • Jetson Nano
+### Databases
+MongoDB • MySQL
 
-**Tools**
+### Tools
+Git • GitHub • Linux • VS Code
 
-Git • GitHub • Linux • VS Code • MongoDB • MySQL
+---
 
-## Projects
+## Selected Projects
 
-- Intelligent AI-based Pesticide Sprinkling Drone
+- Intelligent AI-Based Pesticide Sprinkling Drone
 - AI Emergency Detection Wearable
 - Industrial SCADA Mini Server
 - Smart Hydration Monitoring System
-- Autonomous Robotics Projects
+- Autonomous Robotics Systems
+
+---
 
 ## Achievements
 
-- Second Prize, Vishwakarma Awards – Smart Mobility
-- Winner, Clash of Coders 3.0
-- Top 30 Finalist, Dakshh Tech Fest
-- Research and development in AI-driven embedded systems
+- Second Prize — Vishwakarma Awards (Smart Mobility)
+- Winner — Clash of Coders 3.0
+- Top 30 Finalist — Dakshh Tech Fest
+- Active contributor to AI-driven embedded systems and robotics research
+
+---
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/
+**LinkedIn**  
+https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/
 
-GitHub: https://github.com/kamru03
+**GitHub**  
+https://github.com/kamru03
 
-Email: gitkamru@gmail.com
+**Email**  
+gitkamru@gmail.com
+```
