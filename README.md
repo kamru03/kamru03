@@ -90,14 +90,6 @@ ESP32-based industrial monitoring and control dashboard with real-time visualiza
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kamru03&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
 ## Connect With Me
 
 <p align="center">
