@@ -64,10 +64,6 @@ ESP32-based industrial monitoring and control dashboard with real-time visualiza
 - IEEE IATMSI 2026 Accepted Paper
   - *A Systematic Comparison of Deep Learning Models for Single-Trial P300 Detection in Autism Spectrum Disorder*
 
-- Ongoing Research
-  - **AgriFair XLoRA-Bias**
-  - Fairness-aware agricultural language models.
-
 ---
 
 ## Achievements
