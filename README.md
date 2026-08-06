@@ -1,105 +1,128 @@
-# Kamruzzaman Mondal
+```markdown
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Kamruzzaman%20Mondal&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20|%20Artificial%20Intelligence%20|%20Edge%20Computing&descAlignY=58" />
+</p>
 
-B.Tech Computer Science & Engineering Student | Robotics | Artificial Intelligence | Edge Computing | Drone Systems
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=26&pause=2000&color=2E8BFF&center=true&vCenter=true&width=700&lines=Robotics+Engineer;Artificial+Intelligence+Developer;Embedded+Systems+Enthusiast;Edge+AI+Researcher;Drone+Systems+Developer" />
+</p>
 
-I am a Computer Science & Engineering student at Adamas University with a strong interest in robotics, artificial intelligence, embedded systems, and edge computing. I enjoy designing intelligent systems that combine software and hardware to solve real-world problems. My experience ranges from AI-powered drone systems and agricultural robotics to embedded development and technical training.
+<h1 align="center">Kamruzzaman Mondal</h1>
+
+<h3 align="center">
+B.Tech Computer Science & Engineering Student • Robotics • Artificial Intelligence • Edge Computing
+</h3>
+
+---
 
 ## About Me
 
-* Computer Science & Engineering student at Adamas University
-* Student Coordinator, Robotics & AI Club
-* Team Leader of multiple robotics and AI projects
-* Interested in Robotics, AI, Computer Vision, Embedded Systems, Edge AI, UAVs, and Full-Stack Development
-* Passionate about building practical solutions through engineering and research
+I am a Computer Science & Engineering student at **Adamas University** passionate about Robotics, Artificial Intelligence, Embedded Systems, Drone Technologies, and Edge Computing. I enjoy transforming innovative ideas into real-world engineering solutions by combining AI with hardware systems.
+
+I have experience leading multidisciplinary engineering teams, conducting technical workshops, and developing intelligent systems for agriculture, healthcare, and industrial automation.
+
+---
 
 ## Current Focus
 
-* Edge AI with NVIDIA Jetson
-* Computer Vision
-* Robotics and Autonomous Systems
-* Drone Technologies
-* Embedded Systems
-* Machine Learning
-* Research in AI for Agriculture
+- Edge AI using NVIDIA Jetson
+- Robotics & Autonomous Systems
+- Computer Vision
+- Drone Technologies
+- Embedded Systems
+- Machine Learning
+- Research in AI for Agriculture
+
+---
 
 ## Tech Stack
 
-**Languages**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nextjs,nodejs,tensorflow,opencv,arduino,linux,git,github,mongodb,vscode&perline=8" />
+</p>
 
-Python • C++ • Java • JavaScript • HTML • CSS
-
-**Frameworks & Libraries**
-
-React • Next.js • Node.js
-
-**AI & Machine Learning**
-
-TensorFlow • OpenCV • Computer Vision • Deep Learning
-
-**Embedded & Robotics**
-
-Arduino • ESP32 • STM32 • NVIDIA Jetson Orin Nano • IoT • UAV Systems
-
-**Tools**
-
-Git • GitHub • Linux • VS Code • PlatformIO • MongoDB • 3D Printing
+---
 
 ## Featured Projects
 
 ### Team VIHANG
-
-An AI-powered precision agriculture drone system designed for intelligent pesticide spraying using computer vision and edge AI.
+AI-powered precision agriculture drone system for intelligent pesticide spraying using computer vision and edge AI.
 
 ### AgriDROVER
-
-A smart agricultural rover developed for autonomous farming operations and field automation.
+Autonomous agricultural rover designed for smart farming operations.
 
 ### AI Emergency Wearable
-
-A wearable system capable of monitoring health conditions and detecting medical emergencies using embedded AI.
+Embedded AI wearable capable of detecting medical emergencies using real-time sensor data.
 
 ### Industrial SCADA Mini Server
+ESP32-based industrial monitoring and control dashboard with real-time visualization.
 
-A lightweight industrial monitoring dashboard powered by ESP32 for real-time control and visualization.
+---
 
 ## Research
 
-* IEEE IATMSI 2026 Accepted Paper
+- IEEE IATMSI 2026 Accepted Paper
+  - *A Systematic Comparison of Deep Learning Models for Single-Trial P300 Detection in Autism Spectrum Disorder*
 
-  * *A Systematic Comparison of Deep Learning Models for Single-Trial P300 Detection in Autism Spectrum Disorder*
-* Ongoing research on fairness-aware agricultural language models using XLoRA.
+- Ongoing Research
+  - **AgriFair XLoRA-Bias**
+  - Fairness-aware agricultural language models.
+
+---
 
 ## Achievements
 
-* First Place — Clash of Coders 3.0 Hackathon
-* Second Place — Vishwakarma Awards (Smart Mobility)
-* First Place — National Workshop on Innovative & Sustainable Technologies
-* Instructor for technical workshops on NVIDIA Jetson, Robotics, and 3D Printing
-* Delivered technical training sessions for more than 100 students
+- First Place — Clash of Coders 3.0 Hackathon
+- Second Place — Vishwakarma Awards (Smart Mobility)
+- First Place — National Workshop on Innovative & Sustainable Technologies
+- Conducted Robotics, Jetson Nano, and 3D Printing workshops
+- Delivered technical training to more than 100 students
+
+---
 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamru03&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamru03&layout=compact&theme=transparent&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamru03&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamru03&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kamru03&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kamru03&theme=transparent&hide_border=true"/>
 </p>
-
-## Connect
-
-LinkedIn: https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/
-
-GitHub: https://github.com/kamru03
-
-Email: [gitkamru@gmail.com](mailto:gitkamru@gmail.com)
-
-X: https://x.com/kamru03
-
-Instagram: https://www.instagram.com/_a_l_f_a_03/
 
 ---
 
-*"Building intelligent systems that bridge artificial intelligence with real-world engineering."*
+## GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kamru03&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+<a href="https://github.com/kamru03">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:gitkamru@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://x.com/kamru03">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+</p>
+
+---
+
+> *"Building intelligent systems that bridge Artificial Intelligence with real-world engineering."*
+```
