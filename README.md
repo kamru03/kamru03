@@ -73,21 +73,7 @@ ESP32-based industrial monitoring and control dashboard with real-time visualiza
 - First Place — National Workshop on Innovative & Sustainable Technologies
 - Conducted Robotics, Jetson Nano, and 3D Printing workshops
 - Delivered technical training to more than 100 students
-
----
-
-## GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamru03&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamru03&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=kamru03&theme=transparent&hide_border=true"/>
-</p>
-
+  
 ---
 
 ## Connect With Me
