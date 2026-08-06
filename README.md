@@ -56,7 +56,7 @@ Git • GitHub • Linux • VS Code • MongoDB • MySQL
 
 ## Connect
 
-LinkedIn: #[ Kamruzzaman Mondal](https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/)
+LinkedIn: [ Kamruzzaman Mondal](https://www.linkedin.com/in/kamruzzaman-mondal-34a500319/)
 
 Computer Science and Engineering undergraduate at Adamas University with a strong interest in Artificial Intelligence, Robotics, Embedded Systems, and Full-Stack Development. I enjoy building intelligent systems that combine software, electronics, and machine learning to solve real-world problems.
 
